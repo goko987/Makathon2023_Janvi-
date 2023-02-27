@@ -1,0 +1,5 @@
+print("                                      MAKATHON Q 1                                             ")
+print("Enter n*m:")
+n=int(input())
+m=int(input())
+print("minimum number of cuts required:",n+m-2)
